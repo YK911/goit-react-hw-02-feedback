@@ -1,0 +1,35 @@
+.title {
+  font-family: "Gill Sans", cursive;
+  font-size: 18px;
+  font-weight: 600;
+  padding: 0;
+  margin: 0;
+  margin-bottom: 16px;
+}
+
+.btn {
+  font-family: "Gill Sans", cursive;
+  font-size: 14px;
+  font-weight: 600;
+  outline: 0;
+  border: 1px solid black;
+  border-radius: 6px;
+  background-color: transparent;
+  padding: 0 6px;
+  margin: 0 16px 16px 0;
+}
+
+.btn:hover {
+  background-color: black;
+  color: whitesmoke;
+}
+
+.titleItem {
+  display: block;
+  font-family: "Gill Sans", cursive;
+  font-size: 14px;
+  font-weight: 300;
+  padding: 0;
+  margin: 0;
+  margin-bottom: 16px;
+}
